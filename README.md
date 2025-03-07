@@ -1,2 +1,2 @@
 # hexlet-go
-Repository for hexlet educational course
+Мой проект на Go.
